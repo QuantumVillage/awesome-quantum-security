@@ -16,7 +16,7 @@ To add a blog post, please use the following format:
 * [Blog and Post Title](URL) - DATE YYYY-MM-DD - Brief description
 ```
 
-To add papers into the right section:
+To add papers into the right section - note that the date is optional, and YYYY-MM is usually sufficient, may be replaced by `CONFERENCE NAME 'YY`:
 
 ```
 * [PAPER TITLE](PAPER URL) - DATE YYYY-MM-DD - Short Description
