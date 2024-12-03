@@ -17,6 +17,7 @@ This is a repository for Quantum and Security related items that go into details
 ## Threats From Quantum Technologies
 
 * [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
+* [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
 
 ## Threat Modelling Quantum Technologies
 
