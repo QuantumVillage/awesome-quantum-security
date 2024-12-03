@@ -27,5 +27,5 @@ This is a repository for Quantum and Security related items that go into details
 
 ## PQC
 
-There's a list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
+There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
 
