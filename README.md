@@ -1,6 +1,6 @@
-# Awesome Quantum Security
+# Awesome Quantum Security
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![LinkCheck](https://github.com/QuantumVillage/awesome-quantum-security/actions/workflows/linkCheck.yml/badge.svg)](https://github.com/QuantumVillage/awesome-quantum-security/actions/workflows/linkCheck.yml) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a repository for Quantum and Security related items that go into details about the security of, as well as threats from, quantum technologies. 
 
