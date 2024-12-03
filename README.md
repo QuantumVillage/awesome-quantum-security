@@ -24,7 +24,7 @@ This is a repository for Quantum and Security related items that go into details
 
 ## QKD
 
-* [Hacking QKD - Vadim Makarov @ Quantum Village, DEF CON 33](https://www.youtube.com/watch?v=Phh-jO--bDU) - Talk from Prof. Makarov demonstrating a full security analysis of a QKD system, including how the vendor tried to fix it and how these patches were circumvented. Demonstrates several physics-based attacks on quantum key distribution systems.
+* [Hacking QKD - Vadim Makarov](https://www.youtube.com/watch?v=Phh-jO--bDU) - Quantum Village, DEF CON 33 - Talk from Prof. Makarov demonstrating a full security analysis of a QKD system, including how the vendor tried to fix it and how these patches were circumvented. Demonstrates several physics-based attacks on quantum key distribution systems.
 * [Quantum Hacking](http://www.vad1.com/c/qcommce/2022/Makarov/slides/qcommce-l12-20221207.pdf) - slides from a talk given by Prof. Makarov in 2022 giving a broad overview of attacks against QKD.
 
 ## PQC
