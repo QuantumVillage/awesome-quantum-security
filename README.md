@@ -4,8 +4,6 @@
 
 This is a repository for Quantum and Security related items that go into details about the security of, as well as threats from, quantum technologies. 
 
-**NB** we aren't [awesome post quantum](https://github.com/veorq/awesome-post-quantum/), that's over there!
-
 ## Contents
 
 - [PQC](#pqc)
@@ -15,6 +13,7 @@ This is a repository for Quantum and Security related items that go into details
 - [Threat Modelling Quantum Technologies](#threat-modelling-quantum-technologies)
 - [QKD Attacks](#qkd-attacks)
 - [Quantum for Cybersecurity](#quantum-for-cybersecurity)
+- [Relevant Quantum Tech Awesome Lists](#relevant-quantum-tech-awesome-lists)
 
 ## PQC
 
@@ -68,3 +67,11 @@ The theoretical security of Quantum Key Distribution (QKD) is always at the merc
 Sometimes quantum technologies can be useful for helping solve problems in cybersecurity.
 
 - [Cutting Medusa's Path](https://arxiv.org/abs/2211.13740) - 2022-11-24 - Paper exploring how quantum computing might help solve patch management.
+
+## Relevant Quantum Tech awesome lists
+
+If you're here for PQC let's 302 you to [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
+
+If you want to learn more about Quantum Computing, there's the [awesome quantum computing](https://github.com/desireevl/awesome-quantum-computing) list!
+
+If Quantum Machine Learning is your jam, then you can find loads of information over at [awesome quantum machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning).
