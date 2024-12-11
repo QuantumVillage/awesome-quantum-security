@@ -27,11 +27,13 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 
 ## Attacks on Quantum Algorithms
 
+- [All Your Base Are Belong To Us: Stealing VRP Secrets from Quantum Circuit Structures](http://dx.doi.org/10.1109/HOST55342.2024.10545404) - 2024-05-06 - By exploiting information leakage, say from side channels, during QAOA execution, attackers can potentially breach security and retrieve sensitive input (here for vehicle routing problems, or VRPs) details, posing profound implications for civilian and national security.
 - [QDoor: Exploiting Approximate Synthesis for Backdoor Attacks in Quantum Neural Networks](https://doi.org/10.1109/QCE57702.2023.00124) - 2023-09-17 - Improving attack success rate against Quantum Machine Learning algorithms whilst evading known detection techniques.
 
 ## Defending Quantum Algorithms
 
 - [Towards an Antivirus for Quantum Computers](http://dx.doi.org/10.1109/HOST54066.2022.9840181) - 2022-06-27 - A compile-time technique can be designed to scan quantum computer programs for malicious or suspicious code patterns before they are compiled into quantum circuits that run on a quantum computer.
+- [Dynamic Pulse Switching for Protection of Quantum Computation on Untrusted Clouds](http://dx.doi.org/10.1109/HOST55342.2024.10545385) - 2024-05-22 - This work presents a basic architecture that employs pulse switching, and an extended architecture that includes use of dummy qubits for increased execution protection on quantum computers.
 
 ## Threat Modelling Quantum Technologies
 
