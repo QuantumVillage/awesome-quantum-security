@@ -22,8 +22,9 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 
 ## Threats From Quantum Technologies
 
-* [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
-* [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
+- [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
+- [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
+- [Post-Quantum considerations for Operational Technology](https://www.cisa.gov/sites/default/files/2024-10/Post-Quantum%20Considerations%20for%20Operational%20Technology%20%28508%29.pdf) - 2024-10 - Analytical study from CISA (part of DHS) that enumerates threats from cryptanalytically-relevant quantum computer (CRQC)-enabled intrusions.
 
 ## Attacks on Quantum Algorithms
 
