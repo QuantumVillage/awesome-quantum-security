@@ -68,5 +68,3 @@ The theoretical security of Quantum Key Distribution (QKD) is always at the merc
 Sometimes quantum technologies can be useful for helping solve problems in cybersecurity.
 
 - [Cutting Medusa's Path](https://arxiv.org/abs/2211.13740) - 2022-11-24 - Paper exploring how quantum computing might help solve patch management.
-
-[Test broken link](http://nothingtoseehere.ai/)
