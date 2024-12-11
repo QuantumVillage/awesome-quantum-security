@@ -10,6 +10,8 @@ This is a repository for Quantum and Security related items that go into details
 
 - [PQC](#pqc)
 - [Threats From Quantum Technologies](#threats-from-quantum-technologies)
+- [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
+- [Defending Quantum Algorithms](#defending-quantum-algorithms)
 - [Threat Modelling Quantum Technologies](#threat-modelling-quantum-technologies)
 - [QKD](#qkd)
 - [Quantum for Cybersecurity](#quantum-for-cybersecurity)
@@ -22,6 +24,14 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 
 * [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
 * [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
+
+## Attacks on Quantum Algorithms
+
+- [QDoor: Exploiting Approximate Synthesis for Backdoor Attacks in Quantum Neural Networks](https://doi.org/10.1109/QCE57702.2023.00124) - 2023-09-17 - Improving attack success rate against Quantum Machine Learning algorithms whilst evading known detection techniques.
+
+## Defending Quantum Algorithms
+
+- [Towards an Antivirus for Quantum Computers](http://dx.doi.org/10.1109/HOST54066.2022.9840181) - 2022-06-27 - A compile-time technique can be designed to scan quantum computer programs for malicious or suspicious code patterns before they are compiled into quantum circuits that run on a quantum computer.
 
 ## Threat Modelling Quantum Technologies
 
