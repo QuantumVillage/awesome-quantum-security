@@ -42,6 +42,8 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 
 ## QKD Attacks
 
+The theoretical security of Quantum Key Distribution (QKD) is always at the mercy of real-world attacks. This is our selected reading/watching and reference list: 
+
 - [Hacking QKD - Vadim Makarov](https://www.youtube.com/watch?v=Phh-jO--bDU) - Quantum Village, DEF CON 33 - Talk from Prof. Makarov demonstrating a full security analysis of a QKD system, including how the vendor tried to fix it and how these patches were circumvented. Demonstrates several physics-based attacks on quantum key distribution systems.
 - [Quantum Hacking](http://www.vad1.com/c/qcommce/2022/Makarov/slides/qcommce-l12-20221207.pdf) - slides from a talk given by Prof. Makarov in 2022 giving a broad overview of attacks against QKD.
 - [Experimental vulnerability analysis of QKD based on attack ratings](https://www.nature.com/articles/s41598-021-87574-4) - 2021-05 - A thorough analysis of QKD attacks with attack ratings that may be useful for _in situ_ analysis.
