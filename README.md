@@ -39,7 +39,7 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 
 ## Threat Modelling Quantum Technologies
 
-
+- [Classical Hardware Exploits Made Quantum](https://www.youtube.com/watch?v=Da146UQ9TRE) - Quantum Village, DEF CON 31 - An overview from Dr. Jamie Friel about possible attacks to QPUs, and a lively discussion of their possible mitigations. 
 
 ## QKD Attacks
 
