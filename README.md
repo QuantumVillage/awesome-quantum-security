@@ -11,9 +11,9 @@ The two main core topics for this list are:
 ## Contents
 
 - [Threats From Quantum Technologies](#threats-from-quantum-technologies)
-  - [PQC](#pqc)
   - [Quantum Cryptanalysis](#quantum-cryptanalysis)
   - [Quantum Enabled Attacks](#quantum-enabled-attacks)
+  - [PQC](#pqc)
 - [Threats To Quantum Technologies](#threats-to-quantum-technologies)
   - [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
   - [Defending Quantum Algorithms](#defending-quantum-algorithms)
@@ -26,11 +26,9 @@ The two main core topics for this list are:
 
 This section covers the threats arising from scaled quantum computing, as well as the various mitigations and risk analysis that is required in light of this new paradigm and the attacks it may enable.
 
-### PQC
-
-Post-Quantum Cryptography is the current proposal set for 'quantum safe' cryptographic primitives and protocols. As it happens, there's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
-
 ### Quantum Cryptanalysis
+
+How do quantum computers 'break cryptography'? This section's resources help to understand and answer this. 
 
 - [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
 - [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
@@ -39,6 +37,10 @@ Post-Quantum Cryptography is the current proposal set for 'quantum safe' cryptog
 ### Quantum-Enabled Attacks
 
 - [What To Expect In The Emerging Age Of Quantum Computing](https://www.milbank.com/a/web/131241/What-To-Expect-In-The-Emerging-Age-Of-Quantum-Computing.pdf) - 2020-04-21 - An overview from a law perspective of the coming potential threats, as well as benefits, from quantum computing.
+
+### PQC
+
+Post-Quantum Cryptography is the current proposal set for 'quantum safe' cryptographic primitives and protocols. As it happens, there's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
 
 ## Threats To Quantum Technologies
 
