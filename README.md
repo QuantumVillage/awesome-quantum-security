@@ -20,6 +20,8 @@ This is a repository for Quantum and Security related items that go into details
 
 ## Threats From Quantum Technologies
 
+This section covers the threats arising from scaled quantum computing, as well as the various mitigations and risk analysis that is required in light of this new paradigm and the attacks it may enable.
+
 ### PQC
 
 There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
