@@ -8,6 +8,7 @@ This is a repository for Quantum and Security related items that go into details
 
 - [Threats From Quantum Technologies](#threats-from-quantum-technologies)
   - [PQC](#pqc)
+  - [Quantum Cryptanalysis](#quantum-cryptanalysis)
 - [Threats To Quantum Technologies](#threats-to-quantum-technologies)
   - [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
   - [Defending Quantum Algorithms](#defending-quantum-algorithms)
@@ -22,7 +23,7 @@ This is a repository for Quantum and Security related items that go into details
 
 There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
 
-### Quantunm Cryptanalysis
+### Quantum Cryptanalysis
 
 - [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
 - [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
