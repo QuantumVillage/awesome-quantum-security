@@ -6,41 +6,46 @@ This is a repository for Quantum and Security related items that go into details
 
 ## Contents
 
-- [PQC](#pqc)
 - [Threats From Quantum Technologies](#threats-from-quantum-technologies)
-- [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
-- [Defending Quantum Algorithms](#defending-quantum-algorithms)
-- [Threat Modelling Quantum Technologies](#threat-modelling-quantum-technologies)
-- [QKD Attacks](#qkd-attacks)
+  - [PQC](#pqc)
+- [Threats To Quantum Technologies](#threats-to-quantum-technologies)
+  - [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
+  - [Defending Quantum Algorithms](#defending-quantum-algorithms)
+  - [Threat Modelling Quantum Technologies](#threat-modelling-quantum-technologies)
+  - [QKD Attacks](#qkd-attacks)
 - [Quantum for Cybersecurity](#quantum-for-cybersecurity)
 - [Relevant Quantum Tech Awesome Lists](#relevant-quantum-tech-awesome-lists)
 
-## PQC
+## Threats From Quantum Technologies
+
+### PQC
 
 There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
 
-## Threats From Quantum Technologies
+### Quantunm Cryptanalysis
 
 - [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
 - [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
 - [Post-Quantum considerations for Operational Technology](https://www.cisa.gov/sites/default/files/2024-10/Post-Quantum%20Considerations%20for%20Operational%20Technology%20%28508%29.pdf) - 2024-10 - Analytical study from CISA (part of DHS) that enumerates threats from cryptanalytically-relevant quantum computer (CRQC)-enabled intrusions.
 
-## Attacks on Quantum Algorithms
+## Threats To Quantum Technologies
+
+### Attacks on Quantum Algorithms
 
 - [All Your Base Are Belong To Us: Stealing VRP Secrets from Quantum Circuit Structures](http://dx.doi.org/10.1109/HOST55342.2024.10545404) - 2024-05-06 - By exploiting information leakage, say from side channels, during QAOA execution, attackers can potentially breach security and retrieve sensitive input (here for vehicle routing problems, or VRPs) details, posing profound implications for civilian and national security.
 - [QDoor: Exploiting Approximate Synthesis for Backdoor Attacks in Quantum Neural Networks](https://doi.org/10.1109/QCE57702.2023.00124) - 2023-09-17 - Improving attack success rate against Quantum Machine Learning algorithms whilst evading known detection techniques.
 - [Quantum Hardware Hacking](https://www.youtube.com/watch?v=Gams7BAF7l8) - Quantum Village, DEF CON 30 - An overview of various attacks and malicious quantum circuit implants that are potentially useful to attackers against quantum computer stacks.
 
-## Defending Quantum Algorithms
+### Defending Quantum Algorithms
 
 - [Towards an Antivirus for Quantum Computers](http://dx.doi.org/10.1109/HOST54066.2022.9840181) - 2022-06-27 - A compile-time technique can be designed to scan quantum computer programs for malicious or suspicious code patterns before they are compiled into quantum circuits that run on a quantum computer.
 - [Dynamic Pulse Switching for Protection of Quantum Computation on Untrusted Clouds](http://dx.doi.org/10.1109/HOST55342.2024.10545385) - 2024-05-22 - This work presents a basic architecture that employs pulse switching, and an extended architecture that includes use of dummy qubits for increased execution protection on quantum computers.
 
-## Threat Modelling Quantum Technologies
+### Threat Modelling Quantum Technologies
 
 - [Classical Hardware Exploits Made Quantum](https://www.youtube.com/watch?v=Da146UQ9TRE) - Quantum Village, DEF CON 31 - An overview from Dr. Jamie Friel about possible attacks to QPUs, and a lively discussion of their possible mitigations. 
 
-## QKD Attacks
+### QKD Attacks
 
 The theoretical security of Quantum Key Distribution (QKD) is always at the mercy of real-world attacks. This is our selected reading/watching and reference list: 
 
