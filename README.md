@@ -9,6 +9,7 @@ This is a repository for Quantum and Security related items that go into details
 - [Threats From Quantum Technologies](#threats-from-quantum-technologies)
   - [PQC](#pqc)
   - [Quantum Cryptanalysis](#quantum-cryptanalysis)
+  - [Quantum Enabled Attacks](#quantum-enabled-attacks)
 - [Threats To Quantum Technologies](#threats-to-quantum-technologies)
   - [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
   - [Defending Quantum Algorithms](#defending-quantum-algorithms)
@@ -19,6 +20,8 @@ This is a repository for Quantum and Security related items that go into details
 
 ## Threats From Quantum Technologies
 
+The 'Quantum Threat'
+
 ### PQC
 
 There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
@@ -28,6 +31,10 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 - [Introduction to Shor's Algorithm](https://www.udemy.com/course/introduction-to-quantum-computing-zero-to-shors-algorithm/) - An free introductory short course on Udemy.
 - [Introduction to Grover's Search](https://learn.microsoft.com/en-us/azure/quantum/concepts-grovers) - A short overview article from Azure Quantum about Grover's Search algorithm, with a deep dive on the mathematics and its geometric interpretation.
 - [Post-Quantum considerations for Operational Technology](https://www.cisa.gov/sites/default/files/2024-10/Post-Quantum%20Considerations%20for%20Operational%20Technology%20%28508%29.pdf) - 2024-10 - Analytical study from CISA (part of DHS) that enumerates threats from cryptanalytically-relevant quantum computer (CRQC)-enabled intrusions.
+
+### Quantum-Enabled Attacks
+
+- [What To Expect In The Emerging Age Of Quantum Computing](https://www.milbank.com/a/web/131241/What-To-Expect-In-The-Emerging-Age-Of-Quantum-Computing.pdf) - 2020-04-21 - An overview from a law perspective of the coming potential threats, as well as benefits, from quantum computing.
 
 ## Threats To Quantum Technologies
 
