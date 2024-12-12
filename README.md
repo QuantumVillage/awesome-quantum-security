@@ -20,8 +20,6 @@ This is a repository for Quantum and Security related items that go into details
 
 ## Threats From Quantum Technologies
 
-The 'Quantum Threat'
-
 ### PQC
 
 There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
