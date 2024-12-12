@@ -38,6 +38,8 @@ There's a existing awesome list fo this! Go look over at [awesome post quantum](
 
 ## Threats To Quantum Technologies
 
+Whilst the threats from quantum technologies are growing and get the most airtime, there are many threats _to_ quantum technologies (devices, algorithms, protocols, etc.) that need to be highlighted.
+
 ### Attacks on Quantum Algorithms
 
 - [All Your Base Are Belong To Us: Stealing VRP Secrets from Quantum Circuit Structures](http://dx.doi.org/10.1109/HOST55342.2024.10545404) - 2024-05-06 - By exploiting information leakage, say from side channels, during QAOA execution, attackers can potentially breach security and retrieve sensitive input (here for vehicle routing problems, or VRPs) details, posing profound implications for civilian and national security.
