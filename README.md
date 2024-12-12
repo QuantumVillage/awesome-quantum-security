@@ -2,7 +2,11 @@
 
 [![LinkCheck](https://github.com/QuantumVillage/awesome-quantum-security/actions/workflows/linkCheck.yml/badge.svg)](https://github.com/QuantumVillage/awesome-quantum-security/actions/workflows/linkCheck.yml) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a repository for Quantum and Security related items that go into details about the security of, as well as threats from, quantum technologies. 
+This is a repository for Quantum and Security related items that go into details about the security concerns surrounding quantum technologies. 
+
+The two main core topics for this list are:
+1. Threats _from_ quantum-enabled/capable attackers.
+1. Threats _to_ the various proposed quantum technologies. 
 
 ## Contents
 
@@ -24,7 +28,7 @@ This section covers the threats arising from scaled quantum computing, as well a
 
 ### PQC
 
-There's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
+Post-Quantum Cryptography is the current proposal set for 'quantum safe' cryptographic primitives and protocols. As it happens, there's a existing awesome list fo this! Go look over at [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
 
 ### Quantum Cryptanalysis
 
