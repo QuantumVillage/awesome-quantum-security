@@ -15,6 +15,7 @@ The two main core topics for this list are:
   - [Quantum Enabled Attacks](#quantum-enabled-attacks)
   - [PQC](#pqc)
 - [Threats To Quantum Technologies](#threats-to-quantum-technologies)
+  - [Attacks on Quantum Devices](#attacks-on-quantum-devices)
   - [Attacks on Quantum Algorithms](#attacks-on-quantum-algorithms)
   - [Defending Quantum Algorithms](#defending-quantum-algorithms)
   - [Threat Modelling Quantum Technologies](#threat-modelling-quantum-technologies)
@@ -36,6 +37,7 @@ How do quantum computers 'break cryptography'? This section's resources help to 
 
 ### Quantum-Enabled Attacks
 
+- [Quantum Crime - A First Glance](https://quantumvillage.substack.com/p/quantum-crime-a-first-glance) - 2023-07 - A brief overview of how quantum capable criminals might use attacks on cryptography for committing fraud. This talk deviates far away from 'Store Now, Decrypt Later' as the only threat to cryptography from quantum computing.
 - [What To Expect In The Emerging Age Of Quantum Computing](https://www.milbank.com/a/web/131241/What-To-Expect-In-The-Emerging-Age-Of-Quantum-Computing.pdf) - 2020-04-21 - An overview from a law perspective of the coming potential threats, as well as benefits, from quantum computing.
 
 ### PQC
@@ -45,6 +47,10 @@ Post-Quantum Cryptography is the current proposal set for 'quantum safe' cryptog
 ## Threats To Quantum Technologies
 
 Whilst the threats from quantum technologies are growing and get the most airtime, there are many threats _to_ quantum technologies (devices, algorithms, protocols, etc.) that need to be highlighted.
+
+### Attacks on Quantum Devices
+
+- [Hacking A Quantum Controller](https://quantumvillage.substack.com/p/hacking-a-quantum-computing-controller) - 2024-05 - Disclosing a vulnerability in the QICK open source quantum controller, as well as a full proposed patch for the vulnerability.
 
 ### Attacks on Quantum Algorithms
 
@@ -59,13 +65,14 @@ Whilst the threats from quantum technologies are growing and get the most airtim
 
 ### Threat Modelling Quantum Technologies
 
+- [Quantum Threat Modelling](https://quantumvillage.substack.com/p/quantum-threat-modelling) - 2024-06 - An overview for the approach to Quantum threat Modelling from Quantum Village, 2024.
 - [Classical Hardware Exploits Made Quantum](https://www.youtube.com/watch?v=Da146UQ9TRE) - Quantum Village, DEF CON 31 - An overview from Dr. Jamie Friel about possible attacks to QPUs, and a lively discussion of their possible mitigations. 
 
 ### QKD Attacks
 
 The theoretical security of Quantum Key Distribution (QKD) is always at the mercy of real-world attacks. This is our selected reading/watching and reference list: 
 
-- [Hacking QKD - Vadim Makarov](https://www.youtube.com/watch?v=Phh-jO--bDU) - Quantum Village, DEF CON 33 - Talk from Prof. Makarov demonstrating a full security analysis of a QKD system, including how the vendor tried to fix it and how these patches were circumvented. Demonstrates several physics-based attacks on quantum key distribution systems.
+- [Hacking QKD - Vadim Makarov](https://www.youtube.com/watch?v=Phh-jO--bDU) - Quantum Village, DEF CON 32 - Talk from Prof. Makarov demonstrating a full security analysis of a QKD system, including how the vendor tried to fix it and how these patches were circumvented. Demonstrates several physics-based attacks on quantum key distribution systems.
 - [Quantum Hacking](http://www.vad1.com/c/qcommce/2022/Makarov/slides/qcommce-l12-20221207.pdf) - slides from a talk given by Prof. Makarov in 2022 giving a broad overview of attacks against QKD.
 - [Experimental vulnerability analysis of QKD based on attack ratings](https://www.nature.com/articles/s41598-021-87574-4) - 2021-05 - A thorough analysis of QKD attacks with attack ratings that may be useful for _in situ_ analysis.
 - [Hacking Quantum Key Distribution via Injection Locking](http://dx.doi.org/10.1103/PhysRevApplied.13.034008) - 2020-03 - Using the properties of near-frequency photons, the attack allows the reduction in the output distribution between Alice and Bob, thereby reducing the search space for an attacker significantly.
