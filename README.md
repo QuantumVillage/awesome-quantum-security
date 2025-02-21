@@ -51,6 +51,7 @@ Whilst the threats from quantum technologies are growing and get the most airtim
 ### Attacks on Quantum Devices
 
 - [Hacking A Quantum Controller](https://quantumvillage.substack.com/p/hacking-a-quantum-computing-controller) - 2024-05 - Disclosing a vulnerability in the QICK open source quantum controller, as well as a full proposed patch for the vulnerability.
+- [Time-adaptive single-shot crosstalk detector on superconducting quantum computer](https://arxiv.org/abs/2502.14225) - 2025-02 - This paper discusses techniques for accurate detection and mitigation of crosstalk to enable high-fidelity quantum computing.
 
 ### Attacks on Quantum Algorithms
 
